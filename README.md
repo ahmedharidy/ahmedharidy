@@ -13,7 +13,7 @@
 
 👋 Hello there! I'm Ahmed Haridy, a passionate Junior Front End/WordPress Developer on a perpetual journey of learning and growth. 🚀
 
-🔭 I’m currently working on AZZRAK as an Front End/WordPress Developer
+🔭 I’m currently working on Gist as an WordPress Developer
 
 🖥️ As a tech enthusiast, I channel my creativity into crafting seamless and visually appealing user experiences. My expertise lies in front-end development, where I bring websites to life with clean and efficient code.
 
