@@ -13,7 +13,7 @@
 
 👋 Hello there! I'm Ahmed Haridy, a passionate Junior Front End/WordPress Developer on a perpetual journey of learning and growth. 🚀
 
-🔭 I’m currently working on Gist as an WordPress Developer
+🔭 I’m currently working as a freelancer WordPress & Front-End Developer
 
 🖥️ As a tech enthusiast, I channel my creativity into crafting seamless and visually appealing user experiences. My expertise lies in front-end development, where I bring websites to life with clean and efficient code.
 
@@ -29,7 +29,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/ahmed-hamdy-89b1891b2/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Haridy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-haridy-89b1891b2/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Haridy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
